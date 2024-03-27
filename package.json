@@ -1,0 +1,22 @@
+{
+  "name": "forum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.30",
+    "typescript": "^5.4.3",
+    "vite-tsconfig-paths": "^4.3.2"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.10",
+    "vitest": "^1.4.0"
+  }
+}
